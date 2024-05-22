@@ -1,6 +1,6 @@
 <!-- Project Title -->
 
-<h1 align="center">Farewell, Zennah!</h1>
+<h1 align="center">Farewell, Zennah! (WIP)</h1>
 
 <!-- Project Descripton -->
 
@@ -52,6 +52,9 @@
 </a>
 <a href="#tools">
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+</a>
+<a href="#tools">
+  <img src="https://img.shields.io/badge/Bootsrap_Studio-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </a>
 
 #### Developer:
