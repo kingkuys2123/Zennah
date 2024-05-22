@@ -12,8 +12,8 @@
 <!-- Project Table of Contents -->
 
 ## Table of Contents
-- [Website Info](#website-info)
 - [Features](#features)
+- [Website Info](#website-info)
 - [Preview](#preview)
 
 <br>
