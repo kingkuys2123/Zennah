@@ -1,6 +1,6 @@
 <!-- Project Title -->
 
-<h1 align="center">Farewell, Zennah! (WIP)</h1>
+<h1 align="center">Farewell, Zennah!</h1>
 
 <!-- Project Descripton -->
 
@@ -20,10 +20,10 @@
 
 ## Features
 
-- Home Page
-- Letters
-- Gallery of Memories
-- Videos Messages
+1. [Home Page](https://kingkuys2123.github.io/Zennah/)
+2. [Letters](https://kingkuys2123.github.io/Zennah/letters.html)
+4. [Gallery of Memories](https://kingkuys2123.github.io/Zennah/memories.html)
+5. [Videos Messages](https://kingkuys2123.github.io/Zennah/videos.html)
 
 <br>
 
